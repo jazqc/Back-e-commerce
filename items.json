@@ -1,0 +1,204 @@
+[
+    {
+      "id": 1,
+      "title": "Chanel No. 5",
+        "desc": "Perfume Chanel No. 5",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072394/chanel5_yujax7.jpg",
+      "price": 45000,
+      "stock": 2
+    },
+    {
+  
+      "id": 2,
+      "title": "Dior Sauvage",
+        "desc": "Perfume Dior Sauvage",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072396/diorsauvage_ffe6pe.jpg",
+      "price": 32000,
+      "stock": 3
+    },
+    {
+      "id": 3,
+      "title": "Gucci Guilty",
+      "desc": "Perfume Gucci Guilty",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072399/gucciguilty_ludsgo.webp",
+      "price": 28000,
+      "stock": 5
+    },
+    {
+      "id": 4,
+      "title": "Paco Rabanne 1 Million",
+      "desc": "Perfume Paco Rabanne 1 Million",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072390/1million_utjd0x.png",
+      "price": 41000,
+      "stock": 0
+    },
+    {
+      "id": 5,
+      "title": "Versace Bright Crystal",
+      "desc": "Perfume Versace Bright Crystal",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072392/brightcrystal_e3k7xf.jpg",
+      "price": 39000,
+      "stock": 7
+    },
+    {
+      "id": 6,
+      "title": "Yves Saint Laurent Black Opium",
+      "desc": "Perfume Yves Saint Laurent Black Opium",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072391/blackopium_h4anjf.webp",
+      "price": 24000,
+      "stock": 0
+    },
+    {
+      "id": 7,
+      "title": "Dolce & Gabbana Light Blue",
+      "desc": "Perfume Dolce & Gabbana Light Blue",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072397/dolceandgabbanalightblue_ss1lrp.jpg",
+      "price": 40000,
+      "stock": 3
+    },
+    {
+      "id": 8,
+      "title": "Marc Jacobs Daisy",
+      "desc": "Perfume Marc Jacobs Daisy",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072273/daisy_gxwyi8.webp",
+      "price": 1700,
+      "stock": 0
+    },
+    {
+      "id": 9,
+      "title": "Burberry Brit",
+      "desc": "Perfume Burberry Brit",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072393/burberry_kxzhar.webp",
+      "price": 21800,
+      "stock": 2
+    },
+    {
+      "id": 10,
+      "title": "Armani Code",
+      "desc": "Perfume Armani Code",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072390/armanicode_vfviji.jpg",
+      "price": 32000,
+      "stock": 8
+    },
+    {
+      "id": 11,
+      "title": "Calvin Klein Eternity",
+      "desc": "Perfume Calvin Klein Eternity",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072398/eternity_j3dlmq.jpg",
+      "price": 11700,
+      "stock": 1
+    },
+    {
+      "id": 12,
+      "title": "Jimmy Choo",
+      "desc": "Perfume Jimmy Choo",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072400/jimmychoo_fmzm6g.webp",
+      "price": 2900,
+      "stock": 1
+    },
+    {
+      "id": 13,
+      "title": "Ralph Lauren Polo Blue",
+      "desc": "Perfume Ralph Lauren Polo Blue",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072401/poloblue_ouvixc.webp",
+      "price": 20000,
+      "stock": 10
+    },
+    {
+      "id": 14,
+      "title": "Givenchy Very Irresistible",
+      "desc": "Perfume Givenchy Very Irresistible",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695074784/veryirresistible_i9a3cg.jpg",
+      "price": 32100,
+      "stock": 2
+    },
+    {
+      "id": 15,
+      "title": "Hermes Terre d'Hermes",
+      "desc": "Perfume Hermes Terre d'Hermes",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695072426/terre_b1ri3i.jpg",
+      "price": 5300,
+      "stock": 1
+    },
+    {
+      "id": 16,
+      "title": "Jo Malone London Wood Sage & Sea Salt",
+      "desc": "Perfume Jo Malone London Wood Sage & Sea Salt",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695246429/jomalone_iqddbe.jpg",
+      "price": 34000,
+      "stock": 0
+    },
+    {
+      "id": 17,
+      "title": "Tom Ford Black Orchid",
+      "desc": "Perfume Tom Ford Black Orchid",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695246429/black-orchid-edp-7BD05EC9B7BBE70EB1ACED9E48E2DF39.jpg_qqrpak.webp",
+      "price": 22500,
+      "stock": 0
+    },
+    {
+      "id": 18,
+      "title": "Prada Candy",
+      "desc": "Perfume Prada Candy",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695246429/prada_candy_egckd0.jpg",
+      "price": 55000,
+      "stock": 0
+    },
+    {
+      "id": 19,
+      "title": "Viktor & Rolf Flowerbomb",
+      "desc": "Perfume Viktor & Rolf Flowerbomb",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695246429/flowerbomb_z6hkvn.webp",
+      "price": 62000,
+      "stock": 3
+    },
+    {
+      "id": 20,
+      "title": "Thierry Mugler Angel",
+      "desc": "Perfume Thierry Mugler Angel",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695246429/Thierry_Mugler_Angel_hxwjyj.jpg",
+      "price": 42100,
+      "stock": 0
+    },
+    {
+      "id": 21,
+      "title": "Bvlgari Omnia Crystalline",
+      "desc": "Perfume Bvlgari Omnia Crystalline",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695246694/bvlgari_omnio_cristalline_rekhtj.jpg",
+      "price": 31900,
+      "stock": 1
+    },
+    {
+      "id": 22,
+      "title": "Chanel Coco Mademoiselle",
+      "desc": "Perfume Chanel Coco Mademoiselle",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695246430/Chanel_Coco_Mademoiselle_eyqlvq.webp",
+      "price": 45000,
+      "stock": 0
+    },
+    {
+      "id": 23,
+      "title": "Guerlain Shalimar",
+      "desc": "Perfume Guerlain Shalimar",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695246429/Guerlain_Shalimar_gz86qi.png",
+      "price": 42300,
+      "stock": 1
+    },
+    {
+      "id": 24,
+      "title": "Yves Saint Laurent L'Homme",
+      "desc": "Perfume Yves Saint Laurent L'Homme",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695246430/Yves_Saint_Laurent_L_Homme_b2lu3r.png",
+      "price": 32200,
+      "stock": 3
+    },
+    {
+      "id": 25,
+      "title": "Estée Lauder Pleasures",
+      "desc": "Perfume Estée Lauder Pleasures",
+      "img": "https://res.cloudinary.com/dsyydncjk/image/upload/v1695246430/Perfume_Est%C3%A9e_Lauder_Pleasures_bg5e6s.webp",
+      "price": 28000,
+      "stock": 2
+    }
+   ]
+  
