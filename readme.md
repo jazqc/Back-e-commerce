@@ -9,7 +9,6 @@ PATCH
 -Verificación: "/auth/verify" {email, code}
 
 ***Productos (products)***
-POST
 GET:
 -Traer todos los productos de la DB: "/products"
 
