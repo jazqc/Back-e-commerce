@@ -3,6 +3,7 @@ import { login, register, verifyUser } from "../controllers/auth";
 import {check} from "express-validator";
 import { recolectarErrores } from "../middlewares/recolectarErrores";
 import { existEmail } from "../helpers/validacionesDB";
+import { isVerified } from "../middlewares/validarVerificado";
 
 const router = Router()
 
@@ -24,6 +25,7 @@ router.post("/login",
     check ("password", 'el password debe ser de 6 digitos').isLength({min: 6}),
     recolectarErrores 
 ],
+isVerified,
 login
 );
 
