@@ -13,7 +13,7 @@ GET:
 -Traer todos los productos de la DB: "/products"
 
 POST:
--Agregar un nuevo producto a la DB: "/products/products" {id, title, desc, img, price, stock} (con token de ADMIN en headers)
+-Agregar un nuevo producto a la DB: "/products" {id, title, desc, img, price, stock} (con token de ADMIN en headers)
 
 PATCH:
 -Modificar stock de un producto: "/products/changeStock" {id, stock} (con token de ADMIN)
