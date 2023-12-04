@@ -45,9 +45,13 @@ export const addFavs = async (req: Request, res: Response) => {
     if (existingUserFavs) {
       //chequeo si ya lo tiene entre sus favs.
       if (existingUserFavs.products.includes(pr)) {
+        const index =  existingUserFavs.products.findIndex((product => product == pr))
+        existingUserFavs.products.splice(index, 1)
+        existingUserFavs.save();
         res.status(200).json({
-          msg: "el producto ya se encuentra en sus favoritos",
+          msg: "producto eliminado de favoritos",
         });
+        
       } else {
         existingUserFavs.products.push(pr);
         existingUserFavs.save();
@@ -76,3 +80,4 @@ export const addFavs = async (req: Request, res: Response) => {
     });
   }
 }
+
