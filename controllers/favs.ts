@@ -43,9 +43,9 @@ export const addFavs = async (req: Request, res: Response) => {
     const existingUserFavs = await Favs.findOne({ user: userId }); //chequeo si el usuario ya tiene favoritos
 
     if (existingUserFavs) {
-      //chequeo si ya lo tiene entre sus favs.
+      //chequeo si ya lo tiene entre sus favs.(lo saco si ya lo tiene)
       if (existingUserFavs.products.includes(pr)) {
-        const index =  existingUserFavs.products.findIndex((product => product == pr))
+        const index =  existingUserFavs.products.findIndex((product => product === pr))
         existingUserFavs.products.splice(index, 1)
         existingUserFavs.save();
         res.status(200).json({
